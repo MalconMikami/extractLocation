@@ -1,0 +1,17 @@
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\extractLocation.exe
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\appsettings.json
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\extractLocation.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\extractLocation.deps.json
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\extractLocation.runtimeconfig.json
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\extractLocation.pdb
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Azure.Core.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Azure.Maps.Common.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Azure.Maps.Rendering.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Azure.Maps.Routing.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Azure.Maps.Search.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Microsoft.Azure.Core.Spatial.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\Microsoft.Spatial.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\System.Diagnostics.DiagnosticSource.dll
+C:\XP\Codes\hackatonGit\extractLocation\bin\Debug\net6.0\publish\System.Memory.Data.dll
