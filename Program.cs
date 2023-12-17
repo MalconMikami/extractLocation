@@ -1,12 +1,15 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
-app.MapGet("/geo/", () => {
+app.MapGet("/", () => "OK");
 
-geo g = new geo();
+app.MapPost("/geodata", async (input input) =>
+{
+    geoData g = new geoData();
+    var resultado = g.buscar(input);
 
-return g.buscar(-10,-20);
+    return Results.Created($"/geodata/", resultado);
 });
+
 
 app.Run();
