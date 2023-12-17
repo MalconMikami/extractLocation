@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\XP\\Codes\\Hackaton\\extractLocation\\extractLocation.csproj": {}
+    "C:\\XP\\Codes\\hackatonGit\\extractLocation\\extractLocation.csproj": {}
   },
   "projects": {
-    "C:\\XP\\Codes\\Hackaton\\extractLocation\\extractLocation.csproj": {
+    "C:\\XP\\Codes\\hackatonGit\\extractLocation\\extractLocation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\XP\\Codes\\Hackaton\\extractLocation\\extractLocation.csproj",
+        "projectUniqueName": "C:\\XP\\Codes\\hackatonGit\\extractLocation\\extractLocation.csproj",
         "projectName": "extractLocation",
-        "projectPath": "C:\\XP\\Codes\\Hackaton\\extractLocation\\extractLocation.csproj",
+        "projectPath": "C:\\XP\\Codes\\hackatonGit\\extractLocation\\extractLocation.csproj",
         "packagesPath": "C:\\Users\\u009162\\.nuget\\packages\\",
-        "outputPath": "C:\\XP\\Codes\\Hackaton\\extractLocation\\obj\\",
+        "outputPath": "C:\\XP\\Codes\\hackatonGit\\extractLocation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\u009162\\AppData\\Roaming\\NuGet\\NuGet.Config"
