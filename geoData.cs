@@ -25,10 +25,10 @@ public class geoData
         });
 
        
-          
-        // List<output> outs = new List<output>();
-        // var retorno = "";
+
            output o = new output();
+           o.geoPosition = geo;
+
         foreach (SearchAddressResultItem result in fuzzySearchResponse.Value.Results)
         {
            
@@ -61,6 +61,8 @@ public class output
     public string Endereco {get;set;}
     public string Marca {get;set;}
     public List<string> Categorias {get;set;}
+
+    public GeoPosition geoPosition {get;set;}
 
 }
 
