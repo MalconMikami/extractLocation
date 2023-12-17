@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "0LPqh0/h5ET8Ds6AZj52HZ4wXtfz/XmaD0LzUAoQzqmgTnERNjvLETxDgtK7yJ9qYk9l1Yy4iixOeFMCT/p9Pg==",
+  "success": true,
+  "projectFilePath": "C:\\XP\\Codes\\Hackaton\\extractLocation\\extractLocation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u009162\\.nuget\\packages\\azure.core\\1.34.0\\azure.core.1.34.0.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\azure.maps.common\\1.0.0-beta.4\\azure.maps.common.1.0.0-beta.4.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\azure.maps.rendering\\1.0.0-beta.2\\azure.maps.rendering.1.0.0-beta.2.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\azure.maps.routing\\1.0.0-beta.2\\azure.maps.routing.1.0.0-beta.2.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\azure.maps.search\\1.0.0-beta.4\\azure.maps.search.1.0.0-beta.4.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\microsoft.azure.core.spatial\\1.1.0\\microsoft.azure.core.spatial.1.1.0.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\microsoft.spatial\\7.5.3\\microsoft.spatial.7.5.3.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\u009162\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
